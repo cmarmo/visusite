@@ -85,6 +85,14 @@
 		width: 70em;
 	}
 
+	.logos {
+		background-color: white;
+		border-radius: 5px;
+		border-width:10px;
+		border-color: white;
+		width: 160px;
+		margin: auto;
+	}
 	@media screen and (max-width: 1680px) {
 
 		.container.\31 25\25 {
@@ -2099,6 +2107,14 @@
 	section.special, article.special {
 		text-align: center;
 	}
+
+	#two {
+        min-height: 600px;
+    }
+	
+	#three {
+        min-height: 550px;
+    }
 
 	header p {
 		color: #ffffff;
