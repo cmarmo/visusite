@@ -1592,7 +1592,7 @@
 	}
 
 		a:hover {
-			color: #e44c65 !important;
+			color: #e44c65;
 			border-bottom-color: transparent;
 		}
 
@@ -2116,6 +2116,9 @@
         min-height: 550px;
     }
 
+	#five a, #five a:hover{
+		color: white;
+	}
 	header p {
 		color: #ffffff;
 		position: relative;
